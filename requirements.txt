@@ -7,3 +7,4 @@ capstone
 distorm3
 pycrypto
 pytz
+tornado>=6.3.2 # not directly required, pinned by Snyk to avoid a vulnerability
