@@ -21,7 +21,7 @@
 #
 # -------------------------------------------------------------------------------
 
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210114
 MAINTAINER Jonas Zaddach
 
 ENV PREFIX /home
